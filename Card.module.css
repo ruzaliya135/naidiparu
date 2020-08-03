@@ -1,0 +1,10 @@
+.card-front{}
+
+.card-back{}
+
+.card{
+    margin: 1px;
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+}

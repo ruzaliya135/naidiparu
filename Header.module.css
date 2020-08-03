@@ -1,0 +1,11 @@
+.header {
+    grid-area: h;
+    background-color: mistyrose;
+}
+.header img {
+    width: 60px;
+}
+.header h1{
+    font-style: italic;
+    color: darkcyan;
+}
